@@ -4,7 +4,7 @@
 -->
 
 <!-- ============ HERO ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=324c37&height=250&text=PORTFOLIO&fontColor=ddd3bd&fontSize=120&fontAlignY=48&animation=fadeIn&desc=Tu%20Nombre&descSize=22&descColor=fdb01a&descAlignY=78" width="100%" alt="Portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=324c37&height=250&text=PORTFOLIO&fontColor=ddd3bd&fontSize=120&fontAlignY=48&animation=fadeIn&desc=Tu%20Nombre&descSize=22&descColor=fdb01a&descAlignY=78" width="100%" alt="Matews González"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=324c37&height=90&text=PORTFOLIO&fontColor=324c37&stroke=fdb01a&strokeWidth=2&fontSize=100&fontAlignY=60" width="100%" alt=""/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=Amo%20el%20dise%C3%B1o%20y%20todo%20lo%20relacionado%20con%20el%20arte.&fontColor=f6efe2&fontSize=15&fontAlignY=50" width="100%" alt=""/>
 
@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ============ HOLA ============ -->
-## 👋 Sobre mí
+## Sobre mí
 
 <table width="100%">
 <tr>
@@ -48,7 +48,7 @@ Soy diseñador/a gráfico/a autodidacta con amplia experiencia en marketing y co
 <tr>
 <td colspan="2">
 
-**Contacto** &nbsp;·&nbsp; 📍 Tu ciudad, País &nbsp;·&nbsp; ✉️ tucorreo@gmail.com &nbsp;·&nbsp; 📞 +00 000 000 000
+**Contacto** &nbsp;·&nbsp; Tu ciudad, País &nbsp;·&nbsp; ✉️ tucorreo@gmail.com &nbsp;·&nbsp; 📞 +00 000 000 000
 
 </td>
 </tr>
@@ -142,4 +142,4 @@ Soy diseñador/a gráfico/a autodidacta con amplia experiencia en marketing y co
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=329b37&height=110&section=footer&animation=twinkling" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff5a36&height=110&section=footer&animation=twinkling" width="100%" alt=""/>
