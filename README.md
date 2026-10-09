@@ -4,7 +4,7 @@
 -->
 
 <!-- ============ HERO ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=324c37&height=250&text=PORTFOLIO&fontColor=ddd3bd&fontSize=120&fontAlignY=48&animation=fadeIn&desc=Tu%20Nombre&descSize=22&descColor=fdb01a&descAlignY=78" width="100%" alt="Matews González"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=324c37&height=250&text=Matews%20Gonzalez&fontColor=ddd3bd&fontSize=80&fontAlignY=50&animation=fadeIn" width="100%" alt="Matews González"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=324c37&height=90&text=PORTFOLIO&fontColor=324c37&stroke=fdb01a&strokeWidth=2&fontSize=100&fontAlignY=60" width="100%" alt=""/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=Amo%20el%20dise%C3%B1o%20y%20todo%20lo%20relacionado%20con%20el%20arte.&fontColor=f6efe2&fontSize=15&fontAlignY=50" width="100%" alt=""/>
 
@@ -142,4 +142,9 @@ Soy diseñador/a gráfico/a autodidacta con amplia experiencia en marketing y co
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff5a36&height=110&section=footer&animation=twinkling" width="100%" alt=""/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFD93D&center=true&vCenter=true&width=520&lines=Gracias+por+visitar+mi+portfolio;Construyendo+cosas+nuevas+cada+d%C3%ADa;Hablemos+de+tu+proyecto" alt="typing"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD93D&height=4&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=130&section=footer&animation=twinkling" width="100%" alt="footer"/>
